@@ -1,2 +1,2 @@
-# Anki-decks-maths
-Anki desk of several subjects, based on lectures notes from Durham university
+# Anki decks mathematics
+Anki desks of several subjects, based on lectures notes from Durham University
